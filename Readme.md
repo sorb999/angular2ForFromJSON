@@ -1,15 +1,12 @@
-# Demo of Angular 2 Schema Form
-
-An example usage of [Angular 2 Schema form](https://github.com/makinacorpus/angular2-schema-form).
 
 ## Installation
 
 ```bash
 	# Clone the repository
-	git clone https://github.com/fbessou/angular2-schema-form-demo.git
+	git clone https://github.com/sorb999/angular2FormUsingJSON.git
 
 	# Enter the newly created directory
-	cd angular2-schema-form-demo
+	cd angular2FormUsingJSON
 
 	# Download all dependencies
 	npm install
@@ -18,8 +15,10 @@ An example usage of [Angular 2 Schema form](https://github.com/makinacorpus/angu
 ## Usage
 
 ```bash
-	# Start the server
+	# Start the server(angular 4)
 	npm start
 ```
-
-and go to `http://localhost:3002` in your browser.
+```bash
+	# Start the server(angular 4)
+	ng server --open
+```
