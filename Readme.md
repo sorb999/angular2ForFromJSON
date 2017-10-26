@@ -15,7 +15,7 @@
 ## Usage
 
 ```bash
-	# Start the server(angular 4)
+	# Start the server(angular 2)
 	npm start
 ```
 ```bash
